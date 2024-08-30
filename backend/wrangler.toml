@@ -1,0 +1,7 @@
+name = "medium-web"
+compatibility_date = "2024-08-29"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzU0MDgzN2EtYWVkOC00NmVlLWFjYjUtOTZmYTIyOWYwYzFiIiwidGVuYW50X2lkIjoiNDBhNWM4NWI0OTFmOWQwOGQ2NGExMmYxNmU3OGVjN2FlZmJiODE2ZmZkOWI5ZDY0NDkxODc2OWM2NjU5ZGRiMSIsImludGVybmFsX3NlY3JldCI6IjdjNTM5OWI0LTZmMzctNGNjYS1iMjQwLTViYWRkM2U2ZDMzYyJ9.dm2KDwQPew4NHubxjCvyBQqElNt9AroRCCV4gayWtAk"
+
+JWT_SECRET = "rayyan"
